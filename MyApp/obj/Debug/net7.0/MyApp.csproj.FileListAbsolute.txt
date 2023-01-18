@@ -1,0 +1,15 @@
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\MyApp.exe
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\MyApp.deps.json
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\MyApp.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\MyApp.pdb
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.pdb
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\ref\MyApp.dll
