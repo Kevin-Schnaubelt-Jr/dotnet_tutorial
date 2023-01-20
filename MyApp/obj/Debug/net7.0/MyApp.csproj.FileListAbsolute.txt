@@ -57,3 +57,9 @@ C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\zh-CN\Humanizer.resour
 C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
 C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
 C:\My Shit\My_Code\dotnet_tutorial\MyApp\obj\Debug\net7.0\MyApp.csproj.CopyComplete
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\My Shit\My_Code\dotnet_tutorial\MyApp\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
